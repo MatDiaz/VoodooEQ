@@ -1,0 +1,67 @@
+﻿  midSideProcess.cpp
+  PluginProcessor.cpp
+  PluginEditor.cpp
+..\..\Source\midSideProcess.cpp(21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\Source\midSideProcess.cpp(28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\juce projects\nuevoeq\source\BiquadFilter.h(55): warning C4305: 'initializing': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginEditor.cpp)
+d:\juce projects\nuevoeq\source\BiquadFilter.h(55): warning C4305: 'initializing': truncation from 'double' to 'float' (compiling source file ..\..\Source\PluginProcessor.cpp)
+d:\juce projects\nuevoeq\source\filmStrip.h(39): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data (compiling source file ..\..\Source\PluginEditor.cpp)
+d:\juce projects\nuevoeq\source\filmStrip.h(39): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data (compiling source file ..\..\Source\PluginProcessor.cpp)
+..\..\Source\PluginProcessor.cpp(184): warning C4100: 'index': unreferenced formal parameter
+..\..\Source\PluginProcessor.cpp(188): warning C4100: 'index': unreferenced formal parameter
+..\..\Source\PluginProcessor.cpp(193): warning C4100: 'newName': unreferenced formal parameter
+..\..\Source\PluginProcessor.cpp(193): warning C4100: 'index': unreferenced formal parameter
+..\..\Source\PluginProcessor.cpp(207): warning C4800: 'float': forcing value to bool 'true' or 'false' (performance warning)
+..\..\Source\PluginProcessor.cpp(214): warning C4800: 'float': forcing value to bool 'true' or 'false' (performance warning)
+..\..\Source\PluginProcessor.cpp(222): warning C4800: 'float': forcing value to bool 'true' or 'false' (performance warning)
+..\..\Source\PluginProcessor.cpp(230): warning C4800: 'float': forcing value to bool 'true' or 'false' (performance warning)
+..\..\Source\PluginProcessor.cpp(238): warning C4800: 'float': forcing value to bool 'true' or 'false' (performance warning)
+..\..\Source\PluginProcessor.cpp(246): warning C4800: 'float': forcing value to bool 'true' or 'false' (performance warning)
+..\..\Source\PluginProcessor.cpp(254): warning C4800: 'float': forcing value to bool 'true' or 'false' (performance warning)
+..\..\Source\PluginProcessor.cpp(259): warning C4800: 'float': forcing value to bool 'true' or 'false' (performance warning)
+..\..\Source\PluginProcessor.cpp(260): warning C4800: 'float': forcing value to bool 'true' or 'false' (performance warning)
+..\..\Source\PluginProcessor.cpp(199): warning C4100: 'newValue': unreferenced formal parameter
+..\..\Source\PluginProcessor.cpp(274): warning C4305: '=': truncation from 'double' to 'float'
+..\..\Source\PluginProcessor.cpp(315): warning C4305: '=': truncation from 'double' to 'float'
+..\..\Source\PluginProcessor.cpp(264): warning C4100: 'samplesPerBlock': unreferenced formal parameter
+..\..\Source\PluginProcessor.cpp(489): warning C4100: 'midiMessages': unreferenced formal parameter
+..\..\Source\PluginEditor.cpp(29): warning C4305: '=': truncation from 'double' to 'float'
+..\..\Source\PluginEditor.cpp(76): warning C4305: '=': truncation from 'double' to 'float'
+..\..\Source\PluginEditor.cpp(824): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\..\Source\PluginEditor.cpp(828): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\..\Source\PluginEditor.cpp(832): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\Source\PluginEditor.cpp(839): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\Source\PluginEditor.cpp(846): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\Source\PluginEditor.cpp(854): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\Source\PluginEditor.cpp(862): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\Source\PluginEditor.cpp(870): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\Source\PluginEditor.cpp(878): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\Source\PluginEditor.cpp(884): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\..\Source\PluginEditor.cpp(885): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\..\Source\PluginEditor.cpp(889): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\..\Source\PluginEditor.cpp(890): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\..\Source\PluginEditor.cpp(894): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\..\Source\PluginEditor.cpp(895): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\..\Source\PluginEditor.cpp(899): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\..\Source\PluginEditor.cpp(900): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\..\Source\PluginEditor.cpp(904): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\..\Source\PluginEditor.cpp(905): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\..\Source\PluginEditor.cpp(909): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\..\Source\PluginEditor.cpp(910): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\..\Source\PluginEditor.cpp(914): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\..\Source\PluginEditor.cpp(915): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\..\Source\PluginEditor.cpp(919): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\..\Source\PluginEditor.cpp(920): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\..\Source\PluginEditor.cpp(924): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\..\Source\PluginEditor.cpp(925): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\..\Source\PluginEditor.cpp(929): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\..\Source\PluginEditor.cpp(930): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\..\Source\PluginEditor.cpp(934): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\..\Source\PluginEditor.cpp(935): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\..\Source\PluginEditor.cpp(939): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\..\Source\PluginEditor.cpp(940): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\..\Source\PluginEditor.cpp(1199): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\Source\PluginEditor.cpp(1213): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\Source\PluginEditor.cpp(1369): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\Source\PluginEditor.cpp(1370): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Voodoo EQ_SharedCode.vcxproj -> D:\JUCE Projects\nuevoEQ\Builds\VisualStudio2015\x64\Release\Shared Code\Voodoo EQ.lib

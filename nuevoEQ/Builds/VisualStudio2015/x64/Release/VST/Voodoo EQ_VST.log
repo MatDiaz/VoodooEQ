@@ -1,0 +1,6 @@
+﻿     Creating library D:\JUCE Projects\nuevoEQ\Builds\VisualStudio2015\x64\Release\VST\Voodoo EQ.lib and object D:\JUCE Projects\nuevoEQ\Builds\VisualStudio2015\x64\Release\VST\Voodoo EQ.exp
+  Generating code
+c:\juce\modules\juce_core\text\juce_string.cpp(243): warning C4702: unreachable code
+c:\juce\modules\juce_core\text\juce_string.cpp(243): warning C4702: unreachable code
+  Finished generating code
+  Voodoo EQ_VST.vcxproj -> D:\JUCE Projects\nuevoEQ\Builds\VisualStudio2015\x64\Release\VST\Voodoo EQ.dll

@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2015
+
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Voodoo EQ - VST", "Voodoo EQ_VST.vcxproj", "{1EB5DB9A-B8EB-B3CD-375C-F5D77A5DDBF1}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E7FC09F5-2434-D636-1D6D-02D45370E339} = {E7FC09F5-2434-D636-1D6D-02D45370E339}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Voodoo EQ - Shared Code", "Voodoo EQ_SharedCode.vcxproj", "{E7FC09F5-2434-D636-1D6D-02D45370E339}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EB5DB9A-B8EB-B3CD-375C-F5D77A5DDBF1}.Debug|x64.ActiveCfg = Debug|x64
+		{1EB5DB9A-B8EB-B3CD-375C-F5D77A5DDBF1}.Debug|x64.Build.0 = Debug|x64
+		{1EB5DB9A-B8EB-B3CD-375C-F5D77A5DDBF1}.Release|x64.ActiveCfg = Release|x64
+		{1EB5DB9A-B8EB-B3CD-375C-F5D77A5DDBF1}.Release|x64.Build.0 = Release|x64
+		{E7FC09F5-2434-D636-1D6D-02D45370E339}.Debug|x64.ActiveCfg = Debug|x64
+		{E7FC09F5-2434-D636-1D6D-02D45370E339}.Debug|x64.Build.0 = Debug|x64
+		{E7FC09F5-2434-D636-1D6D-02D45370E339}.Release|x64.ActiveCfg = Release|x64
+		{E7FC09F5-2434-D636-1D6D-02D45370E339}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

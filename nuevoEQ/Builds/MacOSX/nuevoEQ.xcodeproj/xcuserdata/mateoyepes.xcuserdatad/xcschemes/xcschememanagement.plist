@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>nuevoEQ (AU).xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>nuevoEQ (All).xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>nuevoEQ (Shared Code).xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>nuevoEQ (VST).xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>310D8B623D1AC032B0EE5548</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6D022253BA2520FEC68DB8B7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C278035F481BAF7C4D0B7307</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C7A3486A4FF0C657650E175B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
